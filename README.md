@@ -1,4 +1,4 @@
-# AutoDeploy---Containerized-App-Deployment-Pipeline
+# AutoDeploy: Containerized-App-Deployment-Pipeline
 Status: 🚧 Project in Progress 🚧
 
 Project Goal
